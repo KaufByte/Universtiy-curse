@@ -1,0 +1,9 @@
+import { add, capitalize } from './index';
+
+
+console.log("sum(any):", add(2, 3));
+
+
+const unused = 42;
+
+console.log('capitalize(any):', capitalize('hello'));
