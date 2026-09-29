@@ -1,5 +1,5 @@
 ﻿import { config } from './config';
-
+export { config } from './config';
 // базові функції
 
 export function add(a: number, b: number): number {
